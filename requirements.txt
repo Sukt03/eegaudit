@@ -1,0 +1,14 @@
+numpy
+scipy
+torch>=2.0
+scikit-learn
+pandas
+matplotlib
+mne>=1.6
+pyriemann
+transformers
+safetensors
+huggingface_hub
+h5py
+tqdm
+einops
